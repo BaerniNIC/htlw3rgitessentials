@@ -25,4 +25,5 @@ The skills tackled in this crashcourse are also covered on https://my.htl3r.skil
 - cd : change directory
 - ls : list all files/directories (-la lists hidden files and user permissions)
 - ~ is the home directory (cd ~)
+- rtla zeigt dir wirklich alle details, rechte, sortiert, usw.
 
